@@ -1,15 +1,16 @@
 {
-  "name":        "",
+  "name":        "Name",
   "version":     "0.0.1",
   "author":      "Sergey Balbeko",
   "keywords":    "",
-  "description": "",
+  "description": "Description",
 
 
   "dependencies": {
     "express": "2.5.9",
     "coffee-script": "1.2.0",
     "coffeekup": "0.3.1",
-    "stylus":"0.25.0"
+    "stylus":"0.25.0",
+    "nib":""
   }
 }
